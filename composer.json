@@ -1,0 +1,11 @@
+{
+    "name": "hhzbeads/ini",
+    "require" : {
+    	"ext-yaf" : "*"
+    },
+    "autoload": {
+        "psr-4" : {
+            "Hhzbeads\\Ini\\" : "src"
+        }
+    }
+}
